@@ -11,3 +11,8 @@ p {
   font-size: 16px;
   text-align: justify;
 }
+#owner_link {
+  text-decoration: none;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+}
