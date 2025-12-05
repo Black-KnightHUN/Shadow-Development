@@ -12,7 +12,7 @@ p {
   text-align: justify;
 }
 #owner_link {
-  text-decoration: none;
+  text-decoration: underline wavy white 4px;
   color: white;
   font-family: 'Dancing Script', cursive;
 }
