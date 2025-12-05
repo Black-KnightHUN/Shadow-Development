@@ -30,5 +30,5 @@ The following has been used:
 </html>
 ```
 
-© Copyright rules
+© Copyright rules <br>
 I hereby allow the usage of above template and the study of my site (`index.html` and `Shadow_Development.css` files) but I don't allow the alteration of either of these on GitHub without my permission.
