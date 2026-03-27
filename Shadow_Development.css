@@ -1,6 +1,11 @@
 body {
   background-color: #0b3d2d;
   color: white;
+  background-image: url("https://cdn.discordapp.com/attachments/1354555403785994322/1487096029143634020/The_Dark_Reapers.png?ex=69c7e59a&is=69c6941a&hm=4f101544c32759c609db2959f06526e797eb92da9184935773bf6e1371ee0001&");
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 h1 {
   text-align: center;
@@ -12,7 +17,11 @@ p {
   text-align: justify;
 }
 #owner_link {
-  text-decoration: underline wavy white 1.2px;
+  text-decoration: none;
   color: white;
   font-family: 'Dancing Script', cursive;
+}
+
+#main {
+  background-color: rgba(212, 155, 41, 0.629);
 }
