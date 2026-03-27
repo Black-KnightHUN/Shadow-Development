@@ -23,5 +23,6 @@ p {
 }
 
 #main {
-  background-color: rgba(212, 155, 41, 0.629);
+  background-color: rgba(41, 212, 149, 0.629);
+  width: 300px;
 }
